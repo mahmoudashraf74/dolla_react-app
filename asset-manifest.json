@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/dolla_react-app/static/css/main.8a1cbf92.css",
+    "main.js": "/dolla_react-app/static/js/main.44c684ae.js",
+    "static/media/Landing.mp4": "/dolla_react-app/static/media/Landing.7d1ea6a94986d5c2a068.mp4",
+    "static/media/About.svg": "/dolla_react-app/static/media/About.24df2474a05dfe0efff811c22e5df324.svg",
+    "static/media/credit.svg": "/dolla_react-app/static/media/credit.db6bf298e0c84482b129a8ad2cba9b9e.svg",
+    "static/media/growth.svg": "/dolla_react-app/static/media/growth.b3a3537c33cdd75795aa06e843761623.svg",
+    "static/media/Discover.svg": "/dolla_react-app/static/media/Discover.41bdaa65c79319df9c9e549e4dabc349.svg",
+    "static/media/office.svg": "/dolla_react-app/static/media/office.6f82cd83ad7021f2239fd61a15cdac42.svg",
+    "index.html": "/dolla_react-app/index.html",
+    "main.8a1cbf92.css.map": "/dolla_react-app/static/css/main.8a1cbf92.css.map",
+    "main.44c684ae.js.map": "/dolla_react-app/static/js/main.44c684ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8a1cbf92.css",
+    "static/js/main.44c684ae.js"
+  ]
+}
