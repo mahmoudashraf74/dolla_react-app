@@ -1,0 +1,87 @@
+.Home {
+  position: relative;
+}
+.Home video {
+width: 100%;
+}
+
+.land-text {
+  width: 100%;
+  position: absolute;
+  text-align: center;
+  bottom: 50%;
+  color: white;
+}
+.land-text h1 {
+  font-size: 60px;
+  font-weight: bold;
+}
+.land-text p {
+  padding: 10px;
+  font-size: 30px;
+}
+.land-text Button {
+  font-size: 20px;
+  color: black;
+  padding: 10px 30px;
+  border-radius: 1.5rem;
+  background-color:var(--main-color);
+  ;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .land-text {
+    bottom: 15%;
+  }
+  .land-text h1 {
+    font-size: 17px;
+  }
+  .land-text p {
+    font-size: 13px;
+  }
+  .land-text Button {
+    font-size: 12px;
+  }
+}
+@media (min-width: 481px) and (max-width: 767px) {
+  .land-text {
+    bottom: 30%;
+  }
+  .land-text h1 {
+    font-size: 30px;
+  }
+  .land-text p {
+    font-size: 20px;
+  }
+  .land-text Button {
+    font-size: 15px;
+  }
+}
+@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+  .land-text {
+    bottom: 35%;
+  }
+  .land-text h1 {
+    font-size: 40px;
+  }
+  .land-text p {
+    font-size: 25px;
+  }
+  .land-text Button {
+    font-size: 15px;
+  }
+}
+@media (min-width: 1025px) and (max-width: 1280px) {
+  .land-text {
+    bottom: 40%;
+  }
+  .land-text h1 {
+    font-size: 50px;
+  }
+  .land-text p {
+    font-size: 30px;
+  }
+  .land-text Button {
+    font-size: 20px;
+  }
+}

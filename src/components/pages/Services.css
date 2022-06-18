@@ -1,0 +1,32 @@
+.services {
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+  color: black;
+  text-align: center;
+}
+.services .head {
+  padding-bottom: var(--section-padding);
+  color: white;
+  font-weight: 800;
+}
+.services .container {
+  display: flex;
+  flex-flow: column wrap-reverse;
+  justify-content: center;
+  align-items: center;
+}
+.card {
+  border-radius: 2rem;
+  height: 25rem;
+  padding: 10px;
+  margin: 20px;
+}
+.card-img-top {
+  width: 100%;
+}
+.card-title {
+  padding: 10px;
+}
+.card-text {
+  font-size: 17px;
+}

@@ -1,0 +1,37 @@
+.About {
+}
+
+.About-text {
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.About-text h6 {
+  color: var(--main-color);
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.About-text h1 {
+  font-weight: 800;
+  font-size: 40px;
+}
+
+.About-text p {
+  font-size: 20px;
+  padding: 10px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.About-text Button {
+  padding: 10px 30px;
+  border-radius: 2rem;
+  font-size: 20px;
+}
+.About-img {
+  padding-top: var(--section-padding);
+  padding-bottom: var(--section-padding);
+  width: 100%;
+}
